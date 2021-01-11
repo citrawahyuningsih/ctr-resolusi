@@ -3,6 +3,7 @@ RENCANA KONTEN CTR
 - Javascript
  * ES6
  * Framework Javascript
+- Struktur Data Dasar
 - PHP frameworks
 - Interview
 - Vlogs
