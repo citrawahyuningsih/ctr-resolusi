@@ -1,0 +1,8 @@
+RENCANA KONTEN CTR
+
+- Javascript
+ * ES6
+ * Framework Javascript
+- PHP frameworks
+- Interview
+- Vlogs
